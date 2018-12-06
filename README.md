@@ -32,10 +32,8 @@ To run this,
 * Windows: Open command prompt and cd to the directory.
   Run by typing : ``` python -mrun Grab_that_article_on_Medium.py ```
 * Choose whichever article you want by typing in the number as given in options listed.
-![Example of execution](/images/run.png)
 * Wait a few minutes. You'll be notified by a beep sound when the program finsihes running.
 * Check the output.txt file in the same directory to get the list of articles along with their links.
-![Example of output](/images/output.png)
 Now Browse through them and read whichever interests you.
 
 #### For Linux/Unix
